@@ -1,1 +1,9 @@
 GitCreationDate: 2018-01-01T00:00:00Z
+Basic Information List: 
+Done: Create Firebase
+TODO: Create WorkFlow 
+TODO: Create Database Schema
+TODO: Create MongoDB Connection 
+TODO: Create User Interface
+TODO: Create Authentication
+TODO: Create Authorization
